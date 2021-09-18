@@ -14,7 +14,5 @@ namespace ConsoleApp1.Entities
         public string Usuario { get => usuario; set => usuario = value; }
         public string Pass { get => pass; set => pass = value; }
 
-
-
     }
 }
